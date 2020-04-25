@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Block01\Exercise10\bin\Debug\Exercise10.exe.config
+C:\Users\Acer\source\repos\Block01\Exercise10\bin\Debug\Exercise10.exe
+C:\Users\Acer\source\repos\Block01\Exercise10\bin\Debug\Exercise10.pdb
+C:\Users\Acer\source\repos\Block01\Exercise10\obj\Debug\Exercise10.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Block01\Exercise10\obj\Debug\Exercise10.exe
+C:\Users\Acer\source\repos\Block01\Exercise10\obj\Debug\Exercise10.pdb
+C:\Users\Acer\source\repos\Block01\Exercise10\obj\Debug\Exercise10.csprojAssemblyReference.cache
